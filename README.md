@@ -30,7 +30,7 @@ Aficionado en el desarrollo de software y código para situaciones cotidianas
 ### 📫 Contacto
 
 - **Email**: [sebastianmoreno@ug.uchile.cl](mailto:sebastianmoreno@ug.uchile.cl)
-- **LinkedIn**: ([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/sebasti%C3%A1n-moreno-mart%C3%ADnez-a72678256/))
+- **LinkedIn**: ([https://www.linkedin.com/in/sebastián-moreno-martínez-a72678256](https://www.linkedin.com/in/sebasti%C3%A1n-moreno-mart%C3%ADnez-a72678256/))
 
 ---
 
