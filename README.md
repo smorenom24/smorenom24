@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy [Tu Nombre] 👋
 
-<!--
-**smorenom24/smorenom24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💼 Desarrollador de Software | 📊 Ingeniero de Datos
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mí
+
+Aficionado en el desarrollo de software y código para situaciones cotidianas
+
+---
+
+### 🚀 Proyectos Destacados
+
+- [**Ecommerce Django**](https://github.com/tuusuario/ecommerce_django): Un proyecto de comercio electrónico desarrollado con Django, que incluye gestión de productos, carritos de compras y autenticación de usuarios.
+
+
+---
+
+### 🛠️ Habilidades y Tecnologías
+
+- **Lenguajes**: Python, Java, C
+- **Frameworks**: Django, Svelte
+- **Bases de Datos**: PostgreSQL, MySQL, SQLite
+- **Herramientas**: Git
+- **Data Analysis**: Pandas, NumPy, Matplotlib
+
+---
+
+### 📫 Contacto
+
+- **Email**: [sebastianmoreno@ug.uchile.cl](mailto:sebastianmoreno@ug.uchile.cl)
+- **LinkedIn**: ([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/sebasti%C3%A1n-moreno-mart%C3%ADnez-a72678256/))
+
+---
+
