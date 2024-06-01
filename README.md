@@ -1,6 +1,6 @@
-# Hola, soy [Tu Nombre] 👋
+# Hola, soy Sebastián 👋
 
-### 💼 Desarrollador de Software | 📊 Ingeniero de Datos
+### 💼 Desarrollador de Software | 📊 
 
 ---
 
