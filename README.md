@@ -12,7 +12,7 @@ Aficionado en el desarrollo de software y código para situaciones cotidianas
 
 ### 🚀 Proyectos Destacados
 
-- [**Ecommerce Django**](https://github.com/tuusuario/ecommerce_django): Un proyecto de comercio electrónico desarrollado con Django, que incluye gestión de productos, carritos de compras y autenticación de usuarios.
+- [**Ecommerce Django**](https://github.com/smorenom24/ecommerce_django): Un proyecto de comercio electrónico desarrollado con Django, que incluye gestión de productos, carritos de compras y autenticación de usuarios.
 
 
 ---
